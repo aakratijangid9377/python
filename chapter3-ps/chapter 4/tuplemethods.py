@@ -1,0 +1,6 @@
+a = (1,3,33,45,32,47)
+print(a)
+t1 = a.count(33)
+print(t1)
+i = a.index(32)
+print(i)
